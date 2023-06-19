@@ -1,0 +1,14 @@
+[
+    {
+        "id": "552d1c43-9fef-4a83-80a5-67bf60445150",
+        "nome": "x-tudo",
+        "descricao": "pão, haburguer, salsicha e batata palha salada",
+        "preco": 12
+    },
+    {
+        "id": "03badfe9-8fad-4bcb-8c1a-49921a5f8c91",
+        "nome": "x-bacon",
+        "descricao": "pão, haburguer, salsicha e bacon",
+        "preco": 11
+    }
+]
